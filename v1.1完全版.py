@@ -25,7 +25,7 @@ def get_phone():
     url = "http://api.d1jiema.com/zc/data.php"
     params = {
         "code": "getPhone",
-        "token": "",
+        "token": "自己配置",
         "keyWord": "%e8%bf%91%e8%81%94%e6%97%b6%e7%a9%ba",
         "phone": "",
         "cardType": "实卡"
